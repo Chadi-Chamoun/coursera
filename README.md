@@ -1,2 +1,2 @@
 View my submission via this link:
-https://chadi-chamoun.github.io/module2-solution/
+https://chadi-chamoun.github.io/coursera/module2-solution/
